@@ -1,0 +1,14 @@
+com\example\model\Comment.class
+com\example\dao\TaskDao.class
+com\example\controller\UserController.class
+com\example\dao\CommentDao.class
+com\example\dao\UserDao.class
+com\example\controller\AdminController.class
+com\example\App.class
+com\example\service\UserService.class
+com\example\util\HibernateUtil.class
+com\example\service\CommentService.class
+com\example\model\Task.class
+com\example\service\TaskService.class
+com\example\controller\TaskController.class
+com\example\model\User.class
